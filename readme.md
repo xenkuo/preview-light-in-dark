@@ -26,6 +26,10 @@ Luckily VS Code supports markdown preview customization, so I created this style
 
 ## Examples
 
+> You may see some error rendering in github page, that's expected as it doesn't support latest mermaid version.
+>
+> Try to clone the repo and preview it in your locally VS Code.
+
 ```mermaid
 ---
 title: Example
